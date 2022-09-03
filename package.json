@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "snarkjs": "git+https://github.com/tornadocash-community/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
-    "circomlib": "git+https://github.com/tornadocash-community/circomlib.git#5beb6aee94923052faeecea40135d45b6ce6172c"
+    "circomlib": "git+https://github.com/georgekamar/nova-fixed-merkle-tree-compatible-circomlib.git#master"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
